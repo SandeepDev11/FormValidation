@@ -24,7 +24,6 @@ const App = () => {
       <section>
         <div className="form-box">
           <div className="form-value">
-            <h2>Student Login</h2>
             <form onSubmit={handleSubmit}>
               <div className="inputbox">
                 <ion-icon name="person-outline"></ion-icon>
